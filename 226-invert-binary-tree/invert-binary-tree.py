@@ -13,4 +13,3 @@ class Solution:
         root.left=l
         root.right=r
         return root
-        
