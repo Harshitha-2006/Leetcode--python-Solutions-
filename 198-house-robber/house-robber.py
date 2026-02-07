@@ -5,5 +5,4 @@ class Solution:
         for money in nums:
             prev,curr=curr,max(curr,prev+money)
         return curr
-
         
